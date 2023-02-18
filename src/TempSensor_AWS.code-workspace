@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../TempSensor_AWS"
+		},
+		{
+			"name": "TempSensor_MONGODB",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
